@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MathisCPolytech
+- 👋 Hi, I’m @Tizmolytech
 - 👀 I’m interested in AI and cyber security.
 - 🌱 I’m currently learning computer sciences at Polytech Tours in France.
 - 💞️ I’m looking to collaborate on all types of project.
